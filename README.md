@@ -1,5 +1,15 @@
 # hexo-theme-xoxo
 
+## notes:
+
+add below in blog repo `package.json` and run `npm install`
+
+```bash
+"hexo-reading-time": "^1.0.3"
+```
+
+-----
+
 Hexo theme inspired by [microb](https://github.com/microacup/hexo-theme-micorb) 
 
 [Demo](https://blog.0xff000000.com)
