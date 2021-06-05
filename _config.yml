@@ -21,6 +21,12 @@ stylesheets:
 - //cdn.bootcss.com/pure/1.0.0/pure-min.css
 - /css/xoxo.css
 
+# MathJax Support
+mathjax:
+  enable: true
+  cdn: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+
 # scripts loaded in the end of the body
 scripts:
 #- //cdn.bootcss.com/zepto/1.2.0/zepto.min.js
